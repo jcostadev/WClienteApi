@@ -1,0 +1,9 @@
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Domain\bin\Release\WClienteApi.Domain.dll
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Domain\bin\Release\WClienteApi.Domain.pdb
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Domain\bin\Release\MongoDB.Bson.dll
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Domain\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Domain\bin\Release\MongoDB.Driver.dll
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Domain\bin\Release\MongoDB.Bson.xml
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Domain\bin\Release\MongoDB.Driver.xml
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Domain\obj\Release\WClienteApi.Domain.dll
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Domain\obj\Release\WClienteApi.Domain.pdb

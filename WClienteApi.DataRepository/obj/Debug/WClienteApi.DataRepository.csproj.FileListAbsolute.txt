@@ -1,0 +1,14 @@
+c:\users\jcosta\documents\visual studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\bin\Debug\WClienteApi.DataRepository.dll
+c:\users\jcosta\documents\visual studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\bin\Debug\WClienteApi.DataRepository.pdb
+c:\users\jcosta\documents\visual studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\obj\Debug\WClienteApi.DataRepository.dll
+c:\users\jcosta\documents\visual studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\obj\Debug\WClienteApi.DataRepository.pdb
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\bin\Debug\MongoDB.Bson.dll
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\bin\Debug\MongoDB.Driver.dll
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\bin\Debug\WClienteApi.Domain.dll
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\bin\Debug\WClienteApi.Domain.pdb
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\bin\Debug\MongoDB.Bson.xml
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\bin\Debug\MongoDB.Driver.xml
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\obj\Debug\WClienteApi.DataRepository.csprojResolveAssemblyReference.cache
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\bin\Debug\SimpleInjector.dll
+C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\bin\Debug\SimpleInjector.xml
