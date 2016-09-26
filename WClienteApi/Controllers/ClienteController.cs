@@ -17,11 +17,10 @@ namespace WClienteApi.Controllers {
         //It declares the variable that will contain HttpStatusCode instance 
         private HttpStatusCode status;
 
-        public ClienteController(IClienteService _service) {
-            //It creates an instance of ClienteService
-            //_clienteService = new ClienteService();
-
-            _clienteService = _service;
+        //injecting a dependency from the Constructor
+        public ClienteController(IClienteService clienteService) {
+            //instance of ClienteService
+            _clienteService = clienteService;
 
             //It creates an instance of HttpStatusCode
             status = new HttpStatusCode();
@@ -117,7 +116,7 @@ namespace WClienteApi.Controllers {
         /// <returns></returns>
         /// [FromBody]: It is used to force Web API to read a simple type from the request body
         public IHttpActionResult Put(int id, [FromBody]Cliente cliente) {
-            
+
             try {
                 //It determines if the client is not null
                 if (cliente != null) {
@@ -134,7 +133,7 @@ namespace WClienteApi.Controllers {
                 //Appends the specified string to the file, creating the file if it does not already exist 
                 File.AppendAllText(@"C:\message\file.txt", status.ToString() + " " + DateTime.Now.ToString() + Environment.NewLine);
             }
-         
+
             //It returns a message of the type IHttpActionResult with the specified parameters
             return ResponseMessage(Request.CreateResponse(status, status.ToString()));
         }
@@ -151,17 +150,17 @@ namespace WClienteApi.Controllers {
 
             try {
                 if (cliente != null) {
-                    
+
                     // delete record on the basis of id
                     _clienteService.Delete(id);
-                
+
                     //set a value to the variable status
                     status = HttpStatusCode.OK;
                 }
             } catch {
                 //Appends the specified string to the file, creating the file if it does not already exist
                 File.AppendAllText(@"C:\message\file.txt", status.ToString() + " " + DateTime.Now.ToString() + Environment.NewLine);
-                
+
                 //set a value to the variable status
                 status = HttpStatusCode.InternalServerError;
             }

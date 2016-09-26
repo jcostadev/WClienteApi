@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WClienteApi.Utility", "WCli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WClienteApi.Domain", "WClienteApi.Domain\WClienteApi.Domain.csproj", "{4D2CB805-3D28-4A2D-95E3-6F86DC41D810}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{1A2565ED-7F11-487A-9950-141FFE044F0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{4D2CB805-3D28-4A2D-95E3-6F86DC41D810}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D2CB805-3D28-4A2D-95E3-6F86DC41D810}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D2CB805-3D28-4A2D-95E3-6F86DC41D810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2565ED-7F11-487A-9950-141FFE044F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2565ED-7F11-487A-9950-141FFE044F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2565ED-7F11-487A-9950-141FFE044F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2565ED-7F11-487A-9950-141FFE044F0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

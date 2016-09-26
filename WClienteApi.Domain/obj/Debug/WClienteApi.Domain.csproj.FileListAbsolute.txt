@@ -10,3 +10,20 @@ C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Do
 C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Domain\obj\Debug\WClienteApi.Domain.csprojResolveAssemblyReference.cache
 C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Domain\bin\Debug\SimpleInjector.dll
 C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Domain\bin\Debug\SimpleInjector.xml
+C:\MyProjects\WClienteApi\WClienteApi.Domain\bin\Debug\WClienteApi.Domain.dll
+C:\MyProjects\WClienteApi\WClienteApi.Domain\bin\Debug\WClienteApi.Domain.pdb
+C:\MyProjects\WClienteApi\WClienteApi.Domain\bin\Debug\MongoDB.Bson.dll
+C:\MyProjects\WClienteApi\WClienteApi.Domain\bin\Debug\MongoDB.Driver.Core.dll
+C:\MyProjects\WClienteApi\WClienteApi.Domain\bin\Debug\MongoDB.Driver.dll
+C:\MyProjects\WClienteApi\WClienteApi.Domain\bin\Debug\SimpleInjector.dll
+C:\MyProjects\WClienteApi\WClienteApi.Domain\bin\Debug\MongoDB.Bson.xml
+C:\MyProjects\WClienteApi\WClienteApi.Domain\bin\Debug\MongoDB.Driver.xml
+C:\MyProjects\WClienteApi\WClienteApi.Domain\bin\Debug\MongoDB.Driver.Core.xml
+C:\MyProjects\WClienteApi\WClienteApi.Domain\bin\Debug\SimpleInjector.xml
+C:\MyProjects\WClienteApi\WClienteApi.Domain\obj\Debug\WClienteApi.Domain.dll
+C:\MyProjects\WClienteApi\WClienteApi.Domain\obj\Debug\WClienteApi.Domain.pdb
+C:\MyProjects\WClienteApi\WClienteApi.Domain\bin\Debug\Castle.Core.dll
+C:\MyProjects\WClienteApi\WClienteApi.Domain\bin\Debug\Moq.dll
+C:\MyProjects\WClienteApi\WClienteApi.Domain\bin\Debug\Castle.Core.xml
+C:\MyProjects\WClienteApi\WClienteApi.Domain\bin\Debug\Moq.xml
+C:\MyProjects\WClienteApi\WClienteApi.Domain\obj\Debug\WClienteApi.Domain.csprojResolveAssemblyReference.cache

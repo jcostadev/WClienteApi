@@ -1,4 +1,7 @@
 ﻿using System.Web.Http;
+using WClienteApi.Utility;
+using SimpleInjector;
+using SimpleInjector.Integration.WebApi;
 
 namespace WClienteApi {
 
@@ -15,6 +18,11 @@ namespace WClienteApi {
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+
+            var container = SimpleInjectorContainer.RegisterServices();
+
+            GlobalConfiguration.Configuration.DependencyResolver =  new SimpleInjectorWebApiDependencyResolver(container);
+          
         }
     }
 }

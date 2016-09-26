@@ -16,3 +16,26 @@ C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Ut
 C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Utility\bin\Debug\WClienteApi.DataRepository.pdb
 C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Utility\bin\Debug\WClienteApi.Domain.pdb
 C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Utility\obj\Debug\WClienteApi.Utility.csprojResolveAssemblyReference.cache
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\WClienteApi.Utility.dll
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\WClienteApi.Utility.pdb
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\MongoDB.Bson.dll
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\MongoDB.Driver.Core.dll
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\MongoDB.Driver.dll
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\SimpleInjector.dll
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\WClienteApi.Business.dll
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\WClienteApi.DataRepository.dll
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\WClienteApi.Domain.dll
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\WClienteApi.Business.pdb
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\MongoDB.Bson.xml
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\MongoDB.Driver.xml
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\MongoDB.Driver.Core.xml
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\SimpleInjector.xml
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\WClienteApi.DataRepository.pdb
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\WClienteApi.Domain.pdb
+C:\MyProjects\WClienteApi\WClienteApi.Utility\obj\Debug\WClienteApi.Utility.csprojResolveAssemblyReference.cache
+C:\MyProjects\WClienteApi\WClienteApi.Utility\obj\Debug\WClienteApi.Utility.dll
+C:\MyProjects\WClienteApi\WClienteApi.Utility\obj\Debug\WClienteApi.Utility.pdb
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\Castle.Core.dll
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\Moq.dll
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\Castle.Core.xml
+C:\MyProjects\WClienteApi\WClienteApi.Utility\bin\Debug\Moq.xml

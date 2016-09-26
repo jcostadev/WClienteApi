@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using WClienteApi.DataRepository;
 using WClienteApi.Domain;
+using WClienteApi.DataRepository;
 
 namespace WClienteApi.Business {
 
@@ -8,12 +9,13 @@ namespace WClienteApi.Business {
     /// Services to handle UnitOfWork Class
     /// </summary>
     public class ClienteService : IClienteService {
-        private readonly UnitOfWork _cUnitOfwork;
+        private readonly IUnityOfWork _cUnitOfwork;
+        
+        //injecting a dependency from the Constructor
+        public ClienteService(IUnityOfWork unityOfWork) {
+            //instance of UnitOfWork  class
 
-        //It creates an instance of UnitOfWork class
-        public ClienteService() {
-        //instance of UnitOfWork class
-            _cUnitOfwork = new UnitOfWork();
+            _cUnitOfwork = unityOfWork;
         }
 
         //Get method to get record on the basis of id

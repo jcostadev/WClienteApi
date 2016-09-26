@@ -12,3 +12,22 @@ C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.Da
 C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\obj\Debug\WClienteApi.DataRepository.csprojResolveAssemblyReference.cache
 C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\bin\Debug\SimpleInjector.dll
 C:\Users\JCOSTA\Documents\Visual Studio 2015\Projects\WClienteApi\WClienteApi.DataRepository\bin\Debug\SimpleInjector.xml
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\WClienteApi.DataRepository.dll
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\WClienteApi.DataRepository.pdb
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\MongoDB.Bson.dll
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\MongoDB.Driver.Core.dll
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\MongoDB.Driver.dll
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\SimpleInjector.dll
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\WClienteApi.Domain.dll
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\WClienteApi.Domain.pdb
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\MongoDB.Bson.xml
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\MongoDB.Driver.xml
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\MongoDB.Driver.Core.xml
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\SimpleInjector.xml
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\obj\Debug\WClienteApi.DataRepository.csprojResolveAssemblyReference.cache
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\obj\Debug\WClienteApi.DataRepository.dll
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\obj\Debug\WClienteApi.DataRepository.pdb
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\Castle.Core.dll
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\Moq.dll
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\Castle.Core.xml
+C:\MyProjects\WClienteApi\WClienteApi.DataRepository\bin\Debug\Moq.xml
